@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Tu Nombre]
 
-<!--
-**ERV501/ERV501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a passionate developer and researcher, always curious about technology and data science.  
+Currently working at the university, handling data-heavy projects and exploring new programming tools.
 
-Here are some ideas to get you started:
+## 🚀 Things I've worked with:
+### 🛠️ Frameworks and Tools
+- React, Node.js, Express
+- TensorFlow, PyTorch
+- Docker, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Languages and Hobbies
+- Python, JavaScript, C++
+- Databases: MySQL, MongoDB
+- Hobbies: AI research, video games, and hiking!
+
+## 📊 My stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERV501&show_icons=true&theme=radical)
+  
+### 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERV501&layout=compact&theme=radical)
+
+---
+
+✨ _Feel free to connect with me!_  
+[LinkedIn](#)
