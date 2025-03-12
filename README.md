@@ -1,8 +1,7 @@
-# Hi there! 👋 I'm [Tu Nombre]
+# Hi there! 👋
 
 ## About me
-I'm a passionate developer and researcher, always curious about technology and data science.  
-Currently working at the university, handling data-heavy projects and exploring new programming tools.
+I'm a passionate Computer Engineer, always curious about new technologies and data science.
 
 ## 🚀 Things I've worked with:
 ### 🌐 Programming Languages
