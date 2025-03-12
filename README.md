@@ -11,7 +11,14 @@ Currently working at the university, handling data-heavy projects and exploring 
 - Docker, Git, VS Code
 
 ### 🌐 Languages and Hobbies
-- Python, JavaScript, C++
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+</p>
+
 - Databases: MySQL, MongoDB
 - Hobbies: AI research, video games, and hiking!
 
