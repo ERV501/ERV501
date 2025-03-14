@@ -4,7 +4,7 @@
 I'm a passionate Computer Engineer, always curious about new technologies and data science.
 
 ## 🚀 Things I've worked with:
-### 🌐 Programming Languages
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -25,6 +25,12 @@ I'm a passionate Computer Engineer, always curious about new technologies and da
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-0096FF?style=for-the-badge&logo=api&logoColor=white)
+
+🌐 Monitoring and Management Tools:
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Rundeck](https://img.shields.io/badge/Rundeck-8A2BE2?style=for-the-badge&logo=rundeck&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
