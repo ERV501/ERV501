@@ -35,7 +35,7 @@ I'm a passionate Computer Engineer, always curious about new technologies and da
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### OS
+### 💿 OS
 ![Microsoft](https://img.shields.io/badge/Microsoft-6666FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
