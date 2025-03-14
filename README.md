@@ -27,7 +27,7 @@ I'm a passionate Computer Engineer, always curious about new technologies and da
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-0096FF?style=for-the-badge&logo=api&logoColor=white)
 
-🌐 Monitoring and Management Tools:
+### 🌐 Monitoring and Management Tools
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Rundeck](https://img.shields.io/badge/Rundeck-8A2BE2?style=for-the-badge&logo=rundeck&logoColor=white)
